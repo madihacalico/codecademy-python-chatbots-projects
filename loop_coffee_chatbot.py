@@ -1,4 +1,4 @@
-# project 7
+# project 8
 
 from utils import print_message, get_size, order_latte
 
